@@ -1,0 +1,15 @@
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\bin\Debug\net9.0\EquipManager.Application.deps.json
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\bin\Debug\net9.0\EquipManager.Application.dll
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\bin\Debug\net9.0\EquipManager.Application.pdb
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\bin\Debug\net9.0\EquipManager.Domain.dll
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\bin\Debug\net9.0\EquipManager.Domain.pdb
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.csproj.AssemblyReference.cache
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.AssemblyInfoInputs.cache
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.AssemblyInfo.cs
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipMan.B9B0A42A.Up2Date
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.dll
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\refint\EquipManager.Application.dll
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\EquipManager.Application.pdb
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Application\obj\Debug\net9.0\ref\EquipManager.Application.dll

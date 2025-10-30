@@ -1,0 +1,19 @@
+// Pasta Domain: 
+//Entities - os objetos reais com os quais o sistema trabalha.
+//Enums -  São listas fixas de opções que não mudam. - Ex: o status de um equipamento só pode ser: Disponível, Reservado, Em uso ou Em manutenção. Em vez de escrever isso como texto, você cria um Enum.
+//Interfaces - São como contratos que dizem “o que precisa ser feito”, mas não explicam “como fazer”. --- É como um memorando dizendo: “alguém precisa criar um relatório mensal”. O documento define o que precisa acontecer, mas quem e como vai fazer, fica pra outra parte.
+
+//Pasta Application:
+//Services - Onde ficam as regras de negócio do sistema. Eles usam os objetos da pasta Domain para fazer o trabalho real. Por exemplo, um serviço pode dizer: “Quando alguém reserva um equipamento, mude o status dele para ‘Reservado’ e registre a data da reserva.”
+//DTOs - São objetos simples que servem para transportar dados entre diferentes partes do sistema. Eles não têm lógica, só guardam informações. Por exemplo, quando a API recebe uma solicitação para criar um novo equipamento, ela pode usar um DTO para pegar os dados enviados pelo usuário e passá-los para o serviço de equipamentos.
+//Interfaces - São contratos de serviço, que dizem quais ações o sistema pode executar.É como uma lista de “tarefas que o sistema precisa oferecer”: Listar equipamentos, reservar, devolver, etc.
+
+//Pasta Infrastructure:
+// Persistence - É onde o sistema guarda as informações de verdade, no banco de dados.Pense como o arquivo físico ou sistema de registros da APSe. Quando alguém reserva um equipamento, o registro é salvo aqui (banco).
+//Repositories - São os profissionais que lidam diretamente com os dados.São como os auxiliares de almoxarifado: eles buscam, salvam, atualizam e deletam informações do estoque. Eles sabem onde os dados ficam.
+//Configurations - São as configurações técnicas que fazem tudo funcionar direito. ### É como a equipe de TI que configura o sistema: define conexão com o banco, autenticação, logs, etc.
+
+// Pasta API:
+// Controllers - São os atendentes da recepção — recebem pedidos e encaminham pro setor certo. ### Quando alguém faz uma solicitação HTTP (ex: “quero ver os equipamentos disponíveis”), o controller recebe o pedido e chama o serviço certo.
+// Configurations - Define as regras de funcionamento da API. ###  É como o manual de atendimento da recepção: define quais rotas existem, quem pode acessar, se precisa de senha, etc.
+// Middlewares - São os porteiros e seguranças — verificam, registram e filtram as requisições antes de chegar ao atendente. ### Exemplo: um middleware pode registrar quem acessou o sistema, validar o token de login, ou interceptar erros e mostrar mensagens amigáveis.

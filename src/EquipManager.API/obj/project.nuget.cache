@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9+Nq0pya/A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cassio.nascimento\\OneDrive - Adventistas\\Documentos\\Programação\\Projetos_Net\\Equipamento_Evetos\\src\\EquipManager.API\\EquipManager.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\cassio.nascimento\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
