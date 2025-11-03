@@ -9,3 +9,4 @@ C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Proje
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Domain\obj\Debug\net9.0\refint\EquipManager.Domain.dll
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Domain\obj\Debug\net9.0\EquipManager.Domain.pdb
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Domain\obj\Debug\net9.0\ref\EquipManager.Domain.dll
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Domain\obj\Debug\net9.0\EquipManager.Domain.sourcelink.json

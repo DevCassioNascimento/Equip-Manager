@@ -39,3 +39,4 @@ C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Proje
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.API\obj\Debug\net9.0\EquipManager.API.sourcelink.json

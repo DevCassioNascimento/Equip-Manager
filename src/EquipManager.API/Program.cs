@@ -1,3 +1,6 @@
+// Importa o namespace onde está nossa configuração de dependência
+using EquipManager.API.Configurations;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // ---------------------
@@ -6,6 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Aqui entra a configuração personalizada para conectar as camadas:
+// Faz o ASP.NET saber como criar EquipmentService e InMemoryEquipmentRepository
+builder.Services.AddDependencyInjectionConfiguration();
 
 var app = builder.Build();
 
@@ -27,32 +34,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-// ---------------------
-// Endpoint de teste
-// ---------------------
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild",
-    "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast = Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
-
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
