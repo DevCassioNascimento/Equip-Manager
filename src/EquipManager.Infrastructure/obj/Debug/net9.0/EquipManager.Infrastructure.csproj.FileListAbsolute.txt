@@ -16,3 +16,5 @@ C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Proje
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Infrastructure\obj\Debug\net9.0\EquipManager.Infrastructure.pdb
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Infrastructure\obj\Debug\net9.0\ref\EquipManager.Infrastructure.dll
 C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Infrastructure\obj\Debug\net9.0\EquipManager.Infrastructure.sourcelink.json
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Infrastructure\bin\Debug\net9.0\EquipManager.Infrastructure.runtimeconfig.json
+C:\Users\cassio.nascimento\OneDrive - Adventistas\Documentos\Programação\Projetos_Net\Equipamento_Evetos\src\EquipManager.Infrastructure\obj\Debug\net9.0\EquipManager.Infrastructure.genruntimeconfig.cache
